@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "Qualsiasi formato immagine in JPG o PNG"
+  },
+  "extensionDescription": {
+    "message": "Aggiunge voci al menu contestuale per aprire e scaricare un'immagine in diversi formati."
+  },
+  "openImageInNewTab": {
+    "message": "Apri immagine in nuova scheda"
+  },
+  "downloadImageAsJPG": {
+    "message": "Scarica immagine come JPG"
+  },
+  "downloadImageAsPNG": {
+    "message": "Scarica immagine come PNG"
+  },
+  "howToUse": {
+    "message": "Come usare:"
+  },
+  "usage": {
+    "message": "Fare clic con il pulsante destro del mouse su un'immagine per aprirla in una nuova scheda o scaricarla come JPG/PNG. L'estensione cercherà un'immagine all'interno dell'elemento."
+  },
+  "madeBy": {
+    "message": "Realizzato da"
+  },
+  "githubLink": {
+    "message": "https://github.com/TedjFerhati"
+  }
+}

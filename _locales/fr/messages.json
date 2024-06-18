@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "N'importe quel format d'image en JPG ou PNG"
+  },
+  "extensionDescription": {
+    "message": "Ajoute des entrées dans le menu contextuel pour ouvrir et télécharger une image en différents formats."
+  },
+  "openImageInNewTab": {
+    "message": "Ouvrir l'image dans un nouvel onglet"
+  },
+  "downloadImageAsJPG": {
+    "message": "Télécharger l'image en JPG"
+  },
+  "downloadImageAsPNG": {
+    "message": "Télécharger l'image en PNG"
+  },
+  "howToUse": {
+    "message": "Comment utiliser :"
+  },
+  "usage": {
+    "message": "Clic droit sur une image pour l'ouvrir dans un nouvel onglet ou la télécharger en JPG/PNG. L'extension cherchera une image dans l'élément."
+  },
+  "madeBy": {
+    "message": "Créé par"
+  },
+  "githubLink": {
+    "message": "https://github.com/TedjFerhati"
+  }
+}

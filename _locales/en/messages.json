@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "Any format image to JPG or PNG"
+  },
+  "extensionDescription": {
+    "message": "Adds context menu entries to open and download an image in different formats."
+  },
+  "openImageInNewTab": {
+    "message": "Open image in new tab"
+  },
+  "downloadImageAsJPG": {
+    "message": "Download image as JPG"
+  },
+  "downloadImageAsPNG": {
+    "message": "Download image as PNG"
+  },
+  "howToUse": {
+    "message": "How to use:"
+  },
+  "usage": {
+    "message": "Right-click on an image to open it in a new tab or download as JPG/PNG. The extension will search for an image within the element."
+  },
+  "madeBy": {
+    "message": "Made by"
+  },
+  "githubLink": {
+    "message": "https://github.com/TedjFerhati"
+  }
+}

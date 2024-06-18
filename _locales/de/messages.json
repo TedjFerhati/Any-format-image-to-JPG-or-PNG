@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "Beliebiges Bildformat in JPG oder PNG"
+  },
+  "extensionDescription": {
+    "message": "Fügt Kontextmenüeinträge hinzu, um ein Bild in verschiedenen Formaten zu öffnen und herunterzuladen."
+  },
+  "openImageInNewTab": {
+    "message": "Bild in neuem Tab öffnen"
+  },
+  "downloadImageAsJPG": {
+    "message": "Bild als JPG herunterladen"
+  },
+  "downloadImageAsPNG": {
+    "message": "Bild als PNG herunterladen"
+  },
+  "howToUse": {
+    "message": "So wird's gemacht:"
+  },
+  "usage": {
+    "message": "Klicken Sie mit der rechten Maustaste auf ein Bild, um es in einem neuen Tab zu öffnen oder als JPG/PNG herunterzuladen. Die Erweiterung sucht nach einem Bild im Element."
+  },
+  "madeBy": {
+    "message": "Gemacht von"
+  },
+  "githubLink": {
+    "message": "https://github.com/TedjFerhati"
+  }
+}

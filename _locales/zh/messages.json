@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "任何格式图像转换为 JPG 或 PNG"
+  },
+  "extensionDescription": {
+    "message": "添加上下文菜单条目以在不同格式中打开和下载图片。"
+  },
+  "openImageInNewTab": {
+    "message": "在新标签页中打开图片"
+  },
+  "downloadImageAsJPG": {
+    "message": "以JPG格式下载图片"
+  },
+  "downloadImageAsPNG": {
+    "message": "以PNG格式下载图片"
+  },
+  "howToUse": {
+    "message": "如何使用："
+  },
+  "usage": {
+    "message": "右键单击图像，在新标签页中打开或下载为JPG/PNG。扩展将在元素中查找图像。"
+  },
+  "madeBy": {
+    "message": "作者"
+  },
+  "githubLink": {
+    "message": "https://github.com/TedjFerhati"
+  }
+}

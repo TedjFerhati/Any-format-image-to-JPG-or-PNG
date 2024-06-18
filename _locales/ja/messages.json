@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "任意形式の画像を JPG または PNG に変換"
+  },
+  "extensionDescription": {
+    "message": "コンテキストメニューにエントリを追加して、画像を異なる形式で開いてダウンロードします。"
+  },
+  "openImageInNewTab": {
+    "message": "新しいタブで画像を開く"
+  },
+  "downloadImageAsJPG": {
+    "message": "画像をJPG形式でダウンロード"
+  },
+  "downloadImageAsPNG": {
+    "message": "画像をPNG形式でダウンロード"
+  },
+  "howToUse": {
+    "message": "使い方："
+  },
+  "usage": {
+    "message": "画像を右クリックして新しいタブで開くか、JPG/PNG としてダウンロードします。拡張機能は要素内で画像を検索します。"
+  },
+  "madeBy": {
+    "message": "作者"
+  },
+  "githubLink": {
+    "message": "https://github.com/TedjFerhati"
+  }
+}

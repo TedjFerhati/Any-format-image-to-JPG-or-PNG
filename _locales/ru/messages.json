@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "Любой формат изображения в JPG или PNG"
+  },
+  "extensionDescription": {
+    "message": "Добавляет пункты в контекстное меню для открытия и скачивания изображения в разных форматах."
+  },
+  "openImageInNewTab": {
+    "message": "Открыть изображение в новой вкладке"
+  },
+  "downloadImageAsJPG": {
+    "message": "Скачать изображение в формате JPG"
+  },
+  "downloadImageAsPNG": {
+    "message": "Скачать изображение в формате PNG"
+  },
+  "howToUse": {
+    "message": "Как использовать:"
+  },
+  "usage": {
+    "message": "Щелкните правой кнопкой мыши на изображении, чтобы открыть его в новой вкладке или загрузить в формате JPG/PNG. Расширение будет искать изображение в элементе."
+  },
+  "madeBy": {
+    "message": "Сделано"
+  },
+  "githubLink": {
+    "message": "https://github.com/TedjFerhati"
+  }
+}
